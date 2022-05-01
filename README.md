@@ -1,5 +1,5 @@
 # FIZZBUZZ 🚀
-This is a project where refactoring was required. I developed this project to practice refactoring during the bootcamp called Lauch X by Innovaccion Virtual and Microsoft.
+This is a project where refactoring was required. I developed this project to practice refactoring during the bootcamp called Launch X by Innovacción Virtual and Microsoft.
 
 # Built with 💻
  - Node JS
