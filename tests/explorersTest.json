@@ -40,5 +40,12 @@
     "score": 6,
     "mission": "java",
     "stacks": ["elm"]
+  },
+  {
+    "name": "Woopa15",
+    "githubUsername": "ajolonauta15",
+    "score": 15,
+    "mission": "node",
+    "stacks": ["javascript", "elixir", "groovy", "reasonML", "elm"]
   }
 ]
