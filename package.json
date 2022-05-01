@@ -1,0 +1,15 @@
+{
+  "name": "fizzbuzz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node app.js"
+  },
+  "author": "JorgeAgVel",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^28.0.3"
+  }
+}
