@@ -14,7 +14,7 @@ describe("Tests for Explorer Services", () => {
       explorers,
       "node"
     );
-    expect(explorersInNodeLength).toBe(5);
+    expect(explorersInNodeLength).toBe(6);
   });
   test("Test for get explorer usernames by mission", () => {
     const names = ExplorerService.getExplorersUsernamesByMission(
