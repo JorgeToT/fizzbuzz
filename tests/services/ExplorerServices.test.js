@@ -14,13 +14,13 @@ describe("Tests for Explorer Services", () => {
       explorers,
       "node"
     );
-    expect(explorersInNodeLength).toBe(5);
+    expect(explorersInNodeLength).toBe(6);
   });
   test("Test for get explorer usernames by mission", () => {
     const names = ExplorerService.getExplorersUsernamesByMission(
       explorers,
       "node"
     );
-    expect(names).toContain("Woopa1");
+    expect(names).toContain("ajolonauta1");
   });
 });

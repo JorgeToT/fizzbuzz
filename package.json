@@ -9,7 +9,7 @@
   },
   "author": "JorgeAgVel",
   "license": "ISC",
-  "dependencies": {
+  "devDependencies": {
     "jest": "^28.0.3"
   }
 }
