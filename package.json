@@ -5,11 +5,14 @@
   "main": "index.js",
   "scripts": {
     "test": "jest",
-    "start": "node app.js"
+    "start": "node app.js",
+    "linter": "node ./node_modules/eslint/bin/eslint.js .",
+    "linter-fix": "node ./node_modules/eslint/bin/eslint.js . --fix"
   },
   "author": "JorgeAgVel",
   "license": "ISC",
   "devDependencies": {
+    "eslint": "^8.14.0",
     "jest": "^28.0.3"
   }
 }
