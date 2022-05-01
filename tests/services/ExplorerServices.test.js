@@ -21,6 +21,6 @@ describe("Tests for Explorer Services", () => {
       explorers,
       "node"
     );
-    expect(names).toContain("Woopa1");
+    expect(names).toContain("ajolonauta1");
   });
 });
