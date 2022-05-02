@@ -19,4 +19,8 @@ describe("Test for Fizzbuzz services", () => {
         expect(explorer5.trick).toBe("BUZZ");
         expect(explorer15.trick).toBe("FIZZBUZZ");
     });
+    test ("Apply validation in number",()=>{
+        const explorer = FizzbuzzService.applyValidationInNumber(5);
+        expect(explorer).toBe("BUZZ");
+    });
 });
